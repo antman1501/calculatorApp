@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 import { useReducer, useState } from 'react'
 import './App.css'
-import Digits from './assets/digits'
+import Digits from './assets/Digits'
 import Operations from './assets/Operations'
 
 const initialState={
